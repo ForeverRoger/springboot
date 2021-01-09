@@ -1,5 +1,6 @@
 package com.offcn.enums;
 
+//测试git
 public enum GoodsStatusEnum {
 
     GOODS_INIT_STATUS("0","初始状态"),
